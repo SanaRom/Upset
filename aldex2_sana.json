@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/SanaRom/Upset/master/upset_total_withabundances_taxa.csv",
+	"file": "https://raw.githubusercontent.com/SanaRom/Upset/master/upset_withtaxa.csv",
 	"name": "Aldex2 16S",
 	"header": 0,
 	"separator": ";",
